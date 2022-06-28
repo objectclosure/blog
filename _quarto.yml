@@ -13,7 +13,8 @@ website:
         href: https://twitter.com/objectclosure
 format:
   html:
-    theme: sketchy
+    theme: sandstone
+    fontsize: 1.5em
     css: styles.css
 
 

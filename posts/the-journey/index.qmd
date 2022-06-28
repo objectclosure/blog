@@ -1,0 +1,116 @@
+---
+title: "The Journey"
+author: "objectclosure"
+date: "2022-06-28"
+categories: [actuarial-science, confusion, desire, life, programming]
+---
+
+How did I get here?
+
+![](black-swan.jpeg)
+
+6 years ago, in my last yr of highschool, I selected actuarial science as the first option among the courses I’d have liked to major into if I made it to the university. I had done a little google search and discovered actuaries have a fat paycheck. 
+
+Rumours had it that the course was really difficult, with lots of math. “But I am excellent at maths, that won’t be a problem”, I said to myself. Besides, the university was said to be a fun place with lots of time to chill, I’d use that time to crunch the numbers. 
+
+I considered myself to be smart… Academically, at least. My grades heavily backed up that argument.
+
+As fate would have it, I exceeded the cut-off points set for the course by a considerable margin. In September 2018, I enrolled into UoN. Or as they like to call it “The University of Nairobi”, emphasis on “The”. It’s arguably the largest university in our country.
+
+I put in a lot of effort in my first year, and it paid off. The grades were nothing less than excellent. Oh - and spoiler alert - it was also the last time.
+
+During the first yr I had heard our lecturers mention of some papers outside the curriculum that one was supposed to take to become an actuary. And oh boy, weren’t they expensive! 
+
+One paper cost around 297 USD at that time. Bear with me if that’s cheap to you, I’m from the other side of the wealth grid.
+
+Stories were told of those who didn’t take the papers. They’d end up as mere salespeople for insurance companies. They could not become actuaries. That’s when it hit me. I was not going to become an actuary.
+
+I started looking for alternatives. We had taken an introductory to programming course in our first semester and I found it really interesting. A friend of mine had a desktop and and since I didn’t have a laptop, I’d go to his house to learn from CS Dojo’s introductory course on python.
+
+Now in second year. After exploring some options, I saw data science as a good fit since I could teach myself from online resources. It required programming knowledge, either python or R. 
+
+I consulted some of my classmates who seemed “woke”. I did not know much about computers, leave alone programming. 
+
+“Remember we did python in first year? I loved it and I’d like to learn more since I want to become a data scientist. Wdy think?”
+
+“But we’re taking actuarial science and actuaries use R all the time. Haven’t you heard the lecturers recommending R? Python is not a good choice. I’d recommend R.”
+
+The advice was unanimous. I let it get into my head. 
+
+Census was conducted that year in my country and I was one of the enumerators. I used all the money I earned to get myself a laptop. `199.703 USD, 2019.`
+
+I started experimenting with R after classes but I wasn’t consistent. It seemed different and less absorbable compared to the little python I knew.
+
+Covid19 hit. Lockdown in March 2020. Truth be told, I was a lil heartbroken at that time. To avoid being strangled and tortured by sad nigga hours, I’d wake up at 4am, learn R the whole day. By 9pm I’d be so spent I’d just drop dead on my bed.
+
+Day in, day out. At the end of 3 months I felt as if I had become a god at R. We call it "the hand-holding honeymoon phase". Four classmates had got an internship at a big company and were being taught R. Their assignment was to rewrite some scripts in their own way.
+
+One of them told me. I’m always heavy on practice so I told the friend to send me the assignment, I could also learn a thing or two. The initial script took around 7 minutes to run. I recall clearly it had 6 nested `for loops`. Not the preferred way to do things in R.
+
+I sat down, analyzed what it was doing and the required output. After a few hours I had finished rewriting it. And my script… My script took a whooping 6 seconds to get the job done! Tell me if that isn’t some kind of god-shit! They couldn’t believe it. Neither could their manager, who I suppose was also learning R.
+
+I started getting some freelancing gigs from a friend of mine, mostly university assignments from students. I had never had so much money in my life. For the next 3 months I made an average of `425.4 USD` per month. Of course looking back now that isn’t a lot. But it was, back then.
+
+After students went for holidays the earnings reduced drastically.
+
+I was learning fast. I created a linkedin account. After a few weeks some guy I had connected with messaged me and asked for my number. I thought it was another person who was job hunting like me so I didn’t even bother to check his profile.
+
+Several weeks passed by. He called one day. I talked to him casually, but I could detect seriousness in his voice. We talked about normal things, about life in general. We became friends, even though we’d never met. We’d call each other from time to time.
+
+One day I decided to peek at his linkedin profile and see what he does. Aaand… Surprise surprise! The guy was an actuarial fellow, a principal actuary and an MD at a certain company. Imagine me realizing this after like 5 months of us talking!
+
+On our next call I asked why he didn’t tell me. “If I did we wouldn’t be friends as we are. Besides, it was out in the open. You could have looked at my profile.”
+
+He texted on May 2021 saying the HR from the company will be reaching out to me and the discussion would be about my R skills. 
+
+After an oral interview, doing a project on creating a shiny application and finally a physical interview they offered me a job as a junior software developer. Well, it was basically developing R shiny applications.
+
+The salary was/is bad. Just to give you perspective of bad, it’s currently at `382.17 USD` per month. But since I want some experience, I decided to do this.
+
+“So, what happened to actuarial science?”, you ask.
+
+If I said it ended well I’d be lying. Even lovers fall out. This was no exception. I lost all interest in actuarial science. To date. From 2.2 (second year, second semester) I didn’t study anything actuarial science. 
+
+Fortunately or unfortunately both classes and exams were conducted online due to covid19. Following my then heightening googling skills, getting answers from online sources proved to be easy enough and worked most of the time. 2.2 through 3.2 was a breeze. 
+
+I was programming (still am) most of my day. Nothing beats the feeling of learning something that I both want and I’m super interested in.
+
+I wanted to drop out after 3.2 was over but as was typical of me, I consulted friends and family. As expected, their advice was unanimous.
+
+“You’ve come so far to give up now”
+
+“It’s just one year remaining”
+
+“In fact, not one year. It’s six months.”
+
+“You’d never get a job. You might have been lucky this one time, but out here without a degree things are hard.”
+
+“There is no way you’re going to shame us. We paid a lot of fees for you to drop out now. All the loans. What shall we tell people?”
+
+“A degree is like a key. It will open doors you cannot see now. The other option is to enroll for a computer science degree. Another 4 years.”
+
+“I understand, it won’t add anything to you. But just for the sake of having one, finish it.”
+
+“We’re not in the US. Stop living in a eutopia! If you’d ever want to get hired here and get a good salary, you’d have to get a degree.”
+
+All the arguments they presented made sense, at least when viewed from a certain angle. The most striking thing was that none of them told me to go ahead and drop out. Not even one.
+
+At this point I hated school, or anything to do with it. I didn’t want to be there. I knew the degree was never going to help me anywhere in my career. It hasn’t, yet. I’m still waiting.
+
+Anyway, I again, let their advice get to me. 
+
+Exams for both 4.1 and 4.2 were physical and even though the results aren’t yet out, I know I flopped. Who the hell goes to the exam room, writes their registration number, signs on the answer sheet as required and then “helps” the lecturer invigilate the other students for the rest of the time? Me. All in the name of finishing a degree I was totally disinterested in.
+
+Friends and family await my graduation by this September. But I sit here and I know it won’t happen. I don’t see myself going back to do supplimentary exams.
+
+I’ve realized they’re getting something wrong. Yes, I did pretty well academically in primary and high school… Well, and the first year of university. But that in no way mandates me to complete my degree programme.
+
+Life might turn out to be cruel to me later down the road. But the realization that some few years after I’m dead no one, totally no one, will remember me or who I was is so soothing. No, I don’t want to be remembered. I don’t want to leave a legacy. I just want to live.
+
+I don’t remember anything to do with the person Einstein. I only know his name because of the great scientific contributions he made in his field. And it happens rarely. How shallow? Most of the times I’m thinking about me.
+
+But that same argument gives me the courage to try out things my own way and experiment, away from most of societal influence. Asking for advice on how to live certain aspects of my life has not brought the best results, or turned out to be as good as I thought it would. 
+
+In most cases I'd just pick what others suggested, and yet deep down it wasn't what I wanted. For now, I put a pause on asking for advice regarding those noted aspects.
+
+I might fail. I might succeed. But in either case, no one, absolutely no one will remember me a few years from now. So why not make the choices myself? Why not stop delegating the responsibility to choose to my friends and family?
