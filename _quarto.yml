@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "objectclosure"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/objectclosure
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/objectclosure
 format:
   html:
     theme: sketchy
