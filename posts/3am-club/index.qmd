@@ -2,8 +2,7 @@
 title: "3am Club"
 author: "objectclosure"
 date: "2022-07-14"
-draft: true
-categories: [3am-club, wake-up-early]
+categories: [3am-club, wake-up-early, goals]
 ---
 
 Wake up!
@@ -19,5 +18,29 @@ Honestly speaking, I still feel like I'm winging it, directionless. Just letting
 So I've decided to set clear goals for myself. 
 
 The sacrifice? Ideally, sleep at 8pm, wake up at 3am. For the next 3 months. On top of that, I'm gonna be honest... I don't like masturbation. I don't even know why I do it. For the next 3 months, no pornography nor masturbation. Sex is welcome though.
+
+## Goals
+
+"But... What are these goals?"
+
+For the next 3 months (Up to October $15^{th}$), I have 3 major goals:
+
+- Learn enough html, css & js to be able to make my R shiny applications highly interactive and smooth.
+    - [theodinproject.com](https://www.theodinproject.com/) 1 hour per day.
+- Being able to speak fluently in english, not just write.
+    - 15 minutes of speaking in english per day.
+- 100wps typing speed.
+    - [monkeytype.com](https://monkeytype.com/) 10 minutes per day.
+
+> "But all that is just 1 hour 25 minutes. Seriously, why would you wake up at 3am bro?"
+
+1. I have an 8-5 job, that's basically the whole day.
+2. Minimal distractions between 3 and 8am, allowing me to focus fully on whatever I'm doing.
+3. Life's pretty dynamic. I don't use all the 5 hours between 3 and 8am for those goals. Some days I am pretty psyched up and use a good amount of the 5 hours. Some are pretty bad ones for me and end up with only 40 minutes on those goals.
+
+
+I have a [3am club tweet](https://twitter.com/objectclosure/status/1547628024182423553?s=20&t=nb2Tdi5Bk7TbXjxGWB5iyA) which I quote everyday after I wake up and indicate which streak day it is. Not wanting to break the streak is a major factor which drives me out of bed.
+
+You're welcome to join me in this journey!
 
 
